@@ -51,7 +51,7 @@
 
 <h2>Run</h2>
 
-<pre><code>python game.py
+<pre><code>python game_win_or_bust.py
 </code></pre>
 
 <p>
