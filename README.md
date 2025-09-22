@@ -37,7 +37,7 @@
 
 <h2>Requirements</h2>
 <ul>
-  <li>Python 3.8+ (tested on 3.10/3.11/3.12)</li>
+  <li>Python 3.1+ (tested on 3.10/3.11/3.12)</li>
 </ul>
 
 <hr />
