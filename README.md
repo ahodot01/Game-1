@@ -5,13 +5,6 @@
   Each team has three players who enter numbers (1–200). Highest valid total <em>below the limit</em> wins.
 </p>
 
-<p>
-  🔗 <strong>Repo:</strong>
-  <a href="https://github.com/ahodot01/Game-1" target="_blank" rel="noopener noreferrer">
-    https://github.com/ahodot01/Game-1
-  </a>
-</p>
-
 <hr />
 
 <h2>How to Play</h2>
