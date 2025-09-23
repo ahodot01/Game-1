@@ -95,4 +95,4 @@ Play again? (Y/Yes/N/No/...):
 
 <h2>License</h2>
 <p><strong>License:</strong> PolyForm Noncommercial 1.0.0 (no commercial use). 
-For commercial licensing, contact <a href="mailto:s.selection@gmail.com">s.selection@gmail.com</a>.</p>
+For commercial licensing, contact <a href="mailto:a_hodotovics@proton.me">a_hodotovics@proton.me</a>.</p>
